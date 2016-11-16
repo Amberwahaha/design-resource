@@ -322,3 +322,8 @@ Windows 用户体验交互设计规范★（微软的设计指南最为详细，
 Google TV Design Patterns
 Google Glass Guidelines
 Android Wear Guidelines
+
+
+![](https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3176684166,1027485483&fm=116&gp=0.jpg)
+
+![](http://latex.codecogs.com/gif.latex?%5Cprod%20%5C(n_%7Bi%7D%5C)+1)
